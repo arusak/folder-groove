@@ -13,9 +13,9 @@ export default defineConfig(({mode}) => {
         srcDir: 'src',
         registerType: 'autoUpdate',
         manifest: {
-          name: 'Groove Folders',
-          short_name: 'Groove Folders',
-          start_url: '/groove/',
+          name: 'Folder Groove!',
+          short_name: 'Folder Groove!',
+          start_url: '/folder-groove/',
           display: 'standalone',
           theme_color: '#f5ba22',
           background_color: '#f5ba22',
